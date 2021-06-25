@@ -43,41 +43,4 @@
     justify-content: center;
     align-items: center;
 }
-form
-{
-    width: 400px;
-   
-}
-legend
-{
-    letter-spacing: 5px;
-    font-weight: bold;
-    font-size: 20px;
-    
-}
-fieldset
-{
-    padding: 20px;
-    font-size: 15px;
-    border-radius: 8px;
-}
-#sign
-{
-    margin-bottom: 20px;
-    padding: 8px 50px;
-}
-#pass
-{
-    margin-bottom: 20px;
-    padding: 8px 50px;
-}
-#btn
-{
-    padding: 6px 8px;
-    font-weight: bold;
-    letter-spacing: 2px;
-}
-#btn:hover
-{
-    color: #fcc777;
-}
+
