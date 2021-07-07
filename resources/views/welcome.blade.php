@@ -17,7 +17,7 @@
               <fieldset>
                   <legend>WELCOME TO HMS</legend>
                    <label>Sign In </label><br><br>
-                   <input id="sign" type="text"><br>
+                   <input id="sign" type="text"><br><br>
                    <label>Password</label><br><br>
                    <input id="pass" type="password"><br>
                    <button id="btn">SUBMIT</button>

@@ -43,4 +43,38 @@
     justify-content: center;
     align-items: center;
 }
+form
+{
+  display: flex;
+  justify-content: center;
+  
+  
+}
+
+fieldset
+{
+  border-radius: 10px;
+  width: 400px;
+  height: 300px;
+  
+}
+legend
+{
+  letter-spacing: 2px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+label, input
+{
+  margin-left: 95px;
+  padding: auto;
+}
+
+#btn
+{
+  margin-top: 18px;
+  margin-left: 95px;
+  padding: 6px 4px;
+}
+
 
