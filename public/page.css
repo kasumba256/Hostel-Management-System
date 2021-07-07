@@ -40,14 +40,26 @@
     width: 1308px;
     background:#00a86d;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-around;
+   
 }
-form
+.nav
 {
   display: flex;
-  justify-content: center;
-  
-  
+  justify-content: space-evenly;
+  align-items: center;
+  /*margin-top: 40px;*/
+  background-color: #fcc777;
+  height: 80px;
+  width: 100%;
 }
+.nav a 
+{
+    color: #012d3a;
+   text-decoration: none;
+   font-weight: bold;
+   font-size: large;
+   letter-spacing: 5px;
+}
+
 

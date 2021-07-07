@@ -14,7 +14,13 @@
          <img src="/Images/Logo-2.jpg" width="400" >
       </div>
       <div class="sidebar2">
-          <p>chech</p>
+
+          <div class="nav">
+             <a href="">STUDENT</a>
+             <a href="">ROOM</a>
+             <a href="">PARENT</a>
+             <a href="">PAYMENT</a>
+          </div>
       </div>    
      
     </div>
