@@ -22,3 +22,14 @@ Route::get('/page', function ()
 {
     return view('page');
 });
+
+Route::get('/student', function ()
+{
+     return view('student');
+});
+
+Route::get('/room', function ()
+{
+    return view('room');
+}
+);
