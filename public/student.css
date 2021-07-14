@@ -31,9 +31,11 @@
 .sidebar2
 {
     width: 1308px;
+    
     background:#00a86d;
     display: flex;
     justify-content: space-around;
+    
    
 }
 .nav
@@ -41,6 +43,7 @@
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+ 
   /*margin-top: 40px;*/
   background-color: #fcc777;
   height: 80px;
@@ -54,5 +57,7 @@
    font-size: large;
    letter-spacing: 5px;
 }
+
+
 
 

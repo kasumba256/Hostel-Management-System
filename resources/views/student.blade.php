@@ -14,15 +14,17 @@
          <img src="/Images/Logo-2.jpg" width="400" >
       </div>
       <div class="sidebar2">
-
           <div class="nav">
              <a href="/student">STUDENT</a>
              <a href="/room">ROOM</a>
              <a href="">PARENT</a>
              <a href="">PAYMENT</a>
           </div>
-          <p>student</p>
-      </div>    
+          
+          
+      </div> 
+      
+
      
     </div>
   </body>
