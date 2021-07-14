@@ -4,14 +4,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-/*
-@media (max-width: 800px) 
-{
-  .container 
-  {
-    flex-direction: column;
-  }
-}*/
+
 .container
 {
     width: 1910px;

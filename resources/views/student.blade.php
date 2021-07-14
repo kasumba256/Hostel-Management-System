@@ -16,8 +16,8 @@
       <div class="sidebar2">
 
           <div class="nav">
-             <a href="">STUDENT</a>
-             <a href="">ROOM</a>
+             <a href="/student">STUDENT</a>
+             <a href="/room">ROOM</a>
              <a href="">PARENT</a>
              <a href="">PAYMENT</a>
           </div>
