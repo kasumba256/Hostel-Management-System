@@ -33,3 +33,8 @@ Route::get('/room', function ()
     return view('room');
 }
 );
+Route::get('pay', function ()
+{
+    return view('pay');
+}
+);
