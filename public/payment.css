@@ -54,6 +54,49 @@
    font-size: large;
    letter-spacing: 5px;
 }
+section
+{
+ 
+  height: 800px;
+  width: 600px;
+  margin-top: 90px;
+  margin-left: 950px;
+  position: absolute;
+  /*border: thin solid black;*/
+  
+}
+form
+{
+    padding: 100px 15px 40px 15px;   
+    font-family: Arial,Verdana,Helvetica;
+    
+}
+label
+{
+    display: block;
+  
+}
+input
+{
+   padding: 8px;
+   width: 100%;
+   margin: 4px 0px;
+}
+input[type=radio]
+{
+    margin-left: -277px;
+    
+}
+input[type=submit]
+{
+    width: 100px;
+    margin-left: 220px;
+    border-radius: 8px;
+
+}
+
+
+
 
 
 

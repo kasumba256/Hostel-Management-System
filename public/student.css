@@ -31,12 +31,9 @@
 .sidebar2
 {
     width: 1308px;
-    
     background:#00a86d;
     display: flex;
     justify-content: space-around;
-    
-   
 }
 .nav
 {
@@ -69,6 +66,7 @@
 form
 {
     padding: 15px 15px 40px 15px;
+    font-family: Arial,Verdana,Helvetica;
    
     
 }

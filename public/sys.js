@@ -1,0 +1,1 @@
+document.getElementById("double").innerHTML ="Do you need a hostel helper ?";

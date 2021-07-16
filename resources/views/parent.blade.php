@@ -16,15 +16,37 @@
       <div class="sidebar2">
 
           <div class="nav">
-             <a href="">STUDENT</a>
+             <a href="/student">STUDENT</a>
              <a href="/room">ROOM</a>
-             <a href="">PARENT</a>
-             <a href="">PAYMENT</a>
+             <a href="/parent">PARENT</a>
+             <a href="/payment">PAYMENT</a>
           </div>
       </div>    
       <section>
         <form action="" method="POST">
-          <label for="pfname">Parent first Name</label>
+          <label for="pfname">Parent first Name</label><br>
+          <input type="text" id="pfname"><br>
+
+          <label for="plname">Parent last Name</label><br>
+          <input type="text" id="lfname"><br>
+
+          <label for="hfname">Hoster First Name:</label><br>
+          <input type="text" id="hfname"><br>
+
+          <label for="Idno">Student ID No:</label><br>
+          <input type="number" id="Idno"><br>
+
+          <label for="hfname">Parent Address:</label><br>
+          <input type="text" id="hfname"><br>
+          
+          <label for="tel">Contact:</label><br>
+          <input type="tel" id="tel"><br>
+
+          <label for="mail">Email</label><br>
+          <input type="email" id="mail"><br>
+
+          <input type="submit" value="submit">  
+
         </form>
       </section>
     </div>

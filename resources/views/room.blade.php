@@ -20,20 +20,20 @@
              <a href="/student">STUDENT</a>
              <a href="/room">ROOM</a>
              <a href="/parent">PARENT</a>
-             <a href="">PAYMENT</a>
+             <a href="/payment">PAYMENT</a>
           </div>
           <section>
-             <form action="" method="POST">
+             <form action=""  target="_self" method="POST">
               <label for="floor"> floor:</label><br>
-              <input type="text" id="floor"><br>
+              <input type="number" id="floor"><br>
                <label for="room"> Room No:</label><br>
-               <input type="text" id="room"><br>
+               <input type="number" id="room"><br>
                <label for="room"> Room Type:</label><br>
                 
                 <label for="single">Single</label>
-                <input type="radio" id="single" >
-                <label for="single">double</label>
-                <input type="radio" id="single" >
+                <input type="radio" id="single" value="single">
+                <label for="double">double</label>
+                <input type="radio" id="double" value="double" >
 
 
                <label for="hfname">Hoster First Name:</label><br>
@@ -42,6 +42,8 @@
               <input type="text" id="hlname"><br>
               <label for="tel">Contact:</label><br>
               <input type="tel" id="tel"><br>
+              <label for="Idno">Student ID No:</label>
+              <input type="number" id="Idno"><br>
 
                  
               <input type="submit" value="submit">    
