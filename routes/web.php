@@ -18,7 +18,7 @@ Route::get('/', function ()
     return view('welcome');
 });
 
-Route::get('/page', function () 
+Route::get('/parent', function () 
 {
     return view('parent');
 });

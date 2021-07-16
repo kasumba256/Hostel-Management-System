@@ -12,8 +12,6 @@
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    /*justify-content: center;*/
-    
     margin: auto;
     border: thin solid black;
     margin-top: 3px;
@@ -21,8 +19,7 @@
 }
 .sidebar
 {
-    width: 600px;
-   /* background: chocolate;*/
+   width: 600px;
    display: flex;
    justify-content: center;
    align-items: center;
@@ -53,6 +50,17 @@
    font-weight: bold;
    font-size: large;
    letter-spacing: 5px;
+}
+section
+{
+ 
+  height: 800px;
+  width: 600px;
+  margin-top: 90px;
+  margin-left: -90px;
+  position: absolute;
+  border: thin solid black;
+  
 }
 
 
