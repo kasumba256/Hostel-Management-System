@@ -52,6 +52,15 @@
    font-size: large;
    letter-spacing: 5px;
 }
+a:link, a:visited
+{
+    padding: 15px;
+}
+a:hover, a:active
+{
+    background-color: #006c6e;
+    color: white;
+}
 section
 {
  
