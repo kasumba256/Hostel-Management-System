@@ -80,6 +80,11 @@ input
    width: 100%;
    margin: 4px 0px;
 }
+input[type=radio]
+{
+    margin-left: -280px;
+    
+}
 input[type=submit]
 {
     width: 100px;
@@ -87,11 +92,7 @@ input[type=submit]
     border-radius: 8px;
 
 }
-input[type=radio]
-{
-    margin-left: -280px;
 
-}
 
 
 

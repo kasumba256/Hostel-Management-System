@@ -43,7 +43,10 @@
               <label for="tel">Contact:</label><br>
               <input type="tel" id="tel"><br>
 
-                   
+                 
+              <input type="submit" value="submit">    
+                 
+                 
                
 
              </form>

@@ -20,7 +20,7 @@ Route::get('/', function ()
 
 Route::get('/page', function () 
 {
-    return view('page');
+    return view('parent');
 });
 
 Route::get('/student', function ()
