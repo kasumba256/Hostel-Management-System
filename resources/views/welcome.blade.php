@@ -20,7 +20,7 @@
                    <input id="sign" type="text"><br><br>
                    <label>Password</label><br><br>
                    <input id="pass" type="password"><br>
-                   <button id="btn">SUBMIT</button>
+                   <input type="submit" value="submit">
               </fieldset>
           </form>
       </div>    
