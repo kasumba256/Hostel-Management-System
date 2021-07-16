@@ -38,6 +38,7 @@
               <input type="date" id="edate"><br>
               <label for="hostel">Hostel Room No:</label>
               <input type="text" id="hostel"><br>
+             
               <label for="name">Parent Names:</label>
               <input type="text" id="name"><br>
               <label for="tel">Parent Contact:</label>

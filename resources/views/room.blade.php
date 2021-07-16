@@ -22,10 +22,36 @@
              <a href="">PARENT</a>
              <a href="">PAYMENT</a>
           </div>
-          <p>room</p>
+          <section>
+             <form action="" method="POST">
+              <label for="floor"> floor:</label><br>
+              <input type="text" id="floor"><br>
+               <label for="room"> Room No:</label><br>
+               <input type="text" id="room"><br>
+               <label for="room"> Room Type:</label><br>
+                
+                <label for="single">Single</label>
+                <input type="radio" id="single" >
+                <label for="single">double</label>
+                <input type="radio" id="single" >
+
+
+               <label for="hfname">Hoster First Name:</label><br>
+               <input type="text" id="hfname"><br>
+              <label for="hfname">Hoster Last Name:</label><br>
+              <input type="text" id="hlname"><br>
+              <label for="tel">Contact:</label><br>
+              <input type="tel" id="tel"><br>
+
+                   
+               
+
+             </form>
+          </section>
       </div>    
      
     </div>
+    <script src="sys.js"></script>
   </body>
 </html>
  
