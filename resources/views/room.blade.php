@@ -24,7 +24,7 @@
           </div>
           <section>
              <form action=""  target="_self" method="POST">
-              <label for="floor"> floor:</label><br>
+              <label for="floor"> Floor:</label><br>
               <input type="number" id="floor"><br>
                <label for="room"> Room No:</label><br>
                <input type="number" id="room"><br>
@@ -48,15 +48,15 @@
                  
               <input type="submit" value="submit">    
                  
-                 
-               
-
+              <script src="sys.js"></script>
+              
              </form>
           </section>
       </div>    
      
     </div>
-    <script src="sys.js"></script>
+    
+    
   </body>
 </html>
  
