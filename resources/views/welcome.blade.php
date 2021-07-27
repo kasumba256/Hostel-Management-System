@@ -13,13 +13,14 @@
          <img src="/Images/Logo-2.jpg" width="400" >
       </div>
       <div class="sidebar2">
-          <form>
+          <form method="POST" action="">
               <fieldset>
                   <legend>WELCOME TO HMS</legend>
-                   <label>Sign In </label><br><br>
-                   <input id="sign" type="text"><br><br>
+                   <label>User </label><br><br>
+                   <input id="user" type="text"><br><br>
                    <label>Password</label><br><br>
                    <input id="pass" type="password"><br>
+                   <br>
                    <input type="submit" value="submit">
               </fieldset>
           </form>
